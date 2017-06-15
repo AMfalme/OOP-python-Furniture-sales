@@ -22,8 +22,6 @@ class Electronics(object):
 	def make(self):
 		return self.make
 
-	def days_in_store(self):
-		days_in_store 
 	@abstractmethod
 	def type_of_electronic(self):
 		return self.make
